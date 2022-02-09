@@ -6,8 +6,8 @@ Scraping HTML from webpages can't always be done via `curl` as it is often usefu
 
 `webpage-dl` even allows you to provide your own JavaScript expression, so scraping specific HTML nodes has never been easier.
 
-<a href="https://github.com/maxchuquimia/webpage-dl/raw/master/Marketting/demo.gif" title="(click for HD version)">
-    <img src="https://github.com/maxchuquimia/webpage-dl/raw/master/Marketting/demo-small.gif"/>
+<a href="./Marketing/demo.gif" title="(click for HD version)">
+    <img src="./Marketing/demo-small.gif"/>
 </a>
  
 
